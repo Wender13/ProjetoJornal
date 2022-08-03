@@ -228,7 +228,7 @@ footer {
     }
     .Conteudo > img, .Noticia > img, .Individual > img, .Imagem {
         width: 100%;
-        height: auto;
+        height: 50%;
     }
     .Texto > h1, .Texto > h2 {
         margin-bottom: 1em;
